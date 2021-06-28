@@ -1,0 +1,4 @@
+fastbook==0.0.16
+plotnine
+tqdm
+warnings
